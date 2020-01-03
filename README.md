@@ -1,5 +1,5 @@
-# search_jackett firefox extension
-Search provider for [Jackett](https://github.com/Jackett/Jackett) (listening HTTPS on `jackett` hostname).
+# search_bulbapedia firefox extension
+Search provider for [Bulbapedia](https://bulbapedia.bulbagarden.net). Bound to `b` letter by default.
 
 
 Good and easy example of firefox search extension using [`chrome_settings_overrides`](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/chrome_settings_overrides).
@@ -7,7 +7,7 @@ Good and easy example of firefox search extension using [`chrome_settings_overri
 
 ## configuration
 
-You can edit Jackett URL or customize name in `./manifest.json`.
+You can edit the URL or customize name in `./manifest.json`.
 
 Icons can be just replaced in `./icons/` directory before the build.
 
