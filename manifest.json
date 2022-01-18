@@ -13,6 +13,7 @@
 	  "search_provider": {
 		"name": "Bulbapedia",
 		"search_url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search={searchTerms}",
+		"suggest_url": "https://bulbapedia.bulbagarden.net/w/api.php?action=opensearch&search={searchTerms}",
 		"keyword": "b",
 		"favicon_url": "https://bulbapedia.bulbagarden.net/favicon.ico"
 	  }
