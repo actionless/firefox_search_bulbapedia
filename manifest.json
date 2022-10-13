@@ -1,7 +1,7 @@
 {
-	"manifest_version": 2,
+	"manifest_version": 3,
 	"name": "search_bulbapedia",
-	"version": "0.3",
+	"version": "0.4",
 	"description": "Search Bulbapedia",
 
 	"icons": {
@@ -15,7 +15,7 @@
 		"search_url": "https://bulbapedia.bulbagarden.net/w/index.php?title=Special:Search&search={searchTerms}",
 		"suggest_url": "https://bulbapedia.bulbagarden.net/w/api.php?action=opensearch&search={searchTerms}",
 		"keyword": "b",
-		"favicon_url": "https://bulbapedia.bulbagarden.net/favicon.ico"
+		"favicon_url": "/icons/favicon.ico"
 	  }
 	}
 
